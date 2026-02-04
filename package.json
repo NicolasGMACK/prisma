@@ -3,6 +3,7 @@
     "dev": "nodemon src/server.ts"
   },
   "dependencies": {
+    "@prisma/client": "^7.3.0",
     "express": "^5.2.1"
   },
   "devDependencies": {
